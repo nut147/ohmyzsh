@@ -20,8 +20,8 @@
                         <h2> My best Friend</h2>
                         <ol> 
                                 <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
-                                <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
-                                <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
+                                <li><A HREF = "https://www.facebook.com/Kong.Zephyrus"> Kongpop </A> </li>
+                                <li><A HREF = "https://www.facebook.com/nut.nuttawud.5/"> Nut </A> </li>
                         </ol>
 
             </body>
