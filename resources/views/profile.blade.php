@@ -18,11 +18,11 @@
                         
 
                         <h2> My best Friend</h2>
-                        <ul> 
-                                <li>1.Poom</li>
-                                <li>2.Komgpop</li>
-                                <li>3.nut</li>
-                                </ul>
+                        <ol> 
+                                <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
+                                <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
+                                <li><A HREF = "https://www.facebook.com/poom.pektanu"> Poom </A> </li>
+                        </ol>
 
             </body>
 </html>
