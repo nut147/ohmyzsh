@@ -20,4 +20,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/profile', [profileController::class, 'show']);
+Route::get('/home', [MainController::class, 'shoeHome']);
+Route::get('/firend', [MainController::class, 'showFriend']);
+Route::get('/teaching-schedule', [MainController::class, 'showTeaching-Schedule']);
+Route::get('/about-me', [MainController::class, 'showAbout-Me']);
