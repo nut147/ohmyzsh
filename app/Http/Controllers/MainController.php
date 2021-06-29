@@ -10,15 +10,15 @@ class MainController extends Controller
         return view('home');
     }
     
-    function showFriends() {
-        return view('friends');
+    function showFriend() {
+        return view('friend');
     }
 
-    function showTeachingschedule() {
-        return view('Teachingschedule');
+    function showteachingschedule() {
+        return view('teaching-schedule');
     }
 
-    function showAboutme() {
-        return view('Aboutme');
+    function showaboutme() {
+        return view('About-me');
     }
 }

@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\MainController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/home', [MainController::class, 'shoeHome']);
-Route::get('/firend', [MainController::class, 'showFriend']);
-Route::get('/teaching-schedule', [MainController::class, 'showTeaching-Schedule']);
-Route::get('/about-me', [MainController::class, 'showAbout-Me']);
+Route::get('/home', [MainController::class, 'showHome']);
+Route::get('/friend', [MainController::class, 'showFriend']);
+Route::get('/teaching-schedule', [MainController::class, 'showteachingschedule']);
+Route::get('/about-me', [MainController::class, 'showaboutme']);

@@ -1,4 +1,4 @@
-@extends('layout.main')
+@extends('layouts.main')
 
 @section('title', 'Friend')
 
@@ -39,9 +39,9 @@ text-align: center;
                     <td>632110117</td>
                 </tr>
                 <tr>
-                    <td>nut</td>
-                    <td>nut</td>
-                    <td>nut</td>
+                    <td>Adiwit</td>
+                    <td>Panwiriyachai</td>
+                    <td>632210227</td>
                 </tr>
 
             </tbody>

@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title> Week 02: @yield ('title')</title>
+        <title> Week 02: @yield('title')</title>
     
     </head>
     <body>
